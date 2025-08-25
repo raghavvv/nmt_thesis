@@ -39,12 +39,10 @@ Open [`nmt_it2_raghav_qm.ipynb`](c:\Users\sanje\Downloads\nmt_it2_raghav_qm.ipyn
 
 The notebook includes robust evaluation functions that automatically select FLORES-200 or BPCC datasets and compute translation metrics.
 
-## License
-
-See [LICENSE](LICENSE) for details.
 
 ## Acknowledgements
 
 - [AI4Bharat](https://ai4bharat.org/)
 - [HuggingFace](https://huggingface.co/)
 - [WandB](https://wandb.ai/)
+- A huge thank you to my supervisor, Prof. Arkaitz Zubiaga and Queen Mary, University of London for their support and guidance throughout this masters thesis. 
